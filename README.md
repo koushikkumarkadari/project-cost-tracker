@@ -35,7 +35,7 @@ A mini web application to help users manage project expenses efficiently. Users 
 ### Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/koushikkumarkadari/project-cost-tracker.git
 cd project-cost-tracker
 ```
 
